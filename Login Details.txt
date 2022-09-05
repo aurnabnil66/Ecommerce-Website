@@ -1,0 +1,7 @@
+
+Admin Panel :
+
+Admin Login Details : 
+
+Username: admin@mail.com
+Password: Password@123
